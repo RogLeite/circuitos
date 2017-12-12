@@ -1,0 +1,23 @@
+Resposta em Frequência: Filtros Parte 1:
+	https://www.maxwell.vrac.puc-rio.br/stream/filtros_1_maxwell.mp4
+
+Resposta em Frequência: Filtros Parte 2:
+	https://www.maxwell.vrac.puc-rio.br/stream/filtros_parte2_maxwell.mp4
+	
+Filtros de 1ª Ordem:
+	https://www.maxwell.vrac.puc-rio.br/stream/aula32_v1.mp4
+	
+Diagrama de Bode Parte 1:
+	https://www.maxwell.vrac.puc-rio.br/stream/aula_Bode_1_edit.mp4
+	
+Filtros de 2ª Ordem Parte 1:
+	https://www.maxwell.vrac.puc-rio.br/stream/aula33_v1.mp4
+	
+Diagrama de Bode Parte 2:
+	https://www.maxwell.vrac.puc-rio.br/stream/bode_parte2.mp4
+	
+Filtros de 2ª Ordem Parte 2:
+	https://www.maxwell.vrac.puc-rio.br/stream/aula34_v1.mp4
+
+Diagrama de Bode Parte 3:
+	https://www.maxwell.vrac.puc-rio.br/stream/bode_parte3.mp4
