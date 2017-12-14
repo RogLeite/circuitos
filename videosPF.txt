@@ -15,7 +15,8 @@ Filtros de 2ª Ordem Parte 1:
 	
 Diagrama de Bode Parte 2:
 	https://www.maxwell.vrac.puc-rio.br/stream/bode_parte2.mp4
-	
+
+------------CONT
 Filtros de 2ª Ordem Parte 2:
 	https://www.maxwell.vrac.puc-rio.br/stream/aula34_v1.mp4
 
